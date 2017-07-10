@@ -1,4 +1,2 @@
-# hello
-hello
-first line is this naser
-my first commit
+ثقغف6 hello
+یسبسیبیسبmy سثزخدی  commit
